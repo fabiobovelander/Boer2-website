@@ -172,7 +172,7 @@ const App: React.FC = () => {
         </div>
       </footer>
 
-      <ChatAssistant />
+    
     </div>
   );
 };
