@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
       {/* Achtergrond met de bedrijfsbus */}
       <div className="absolute inset-0 z-0">
         <img
-          src="bedrijfsbus.jpg"
+          src="/images/bedrijfsbus.jpg"
           alt="Boer2 Bedrijfsbus"
           className="w-full h-full object-cover object-center brightness-[0.45] transition-opacity duration-1000"
           onError={(e) => {
