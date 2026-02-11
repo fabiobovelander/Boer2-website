@@ -8,7 +8,7 @@ import Contact from './components/Contact';
 
 const App: React.FC = () => {
   return (
-    <div className="min-h-screen bg-zinc-950 text-white selection:bg-red-600 selection:text-white">
+    <div className="min-h-screen bg-zinc-950 text-white selection:bg-red-600 selection:text-white overflow-x-hidden">
       <Header />
       
       <main>
